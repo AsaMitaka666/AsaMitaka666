@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Asa 👋
 
-<!--
-**AsaMitaka666/AsaMitaka666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Self-taught Junior Web Developer** with a strong focus on **PHP** and **Laravel**
 
-Here are some ideas to get you started:
+### About Me
+- 🔭 Currently building real-world projects with Laravel 11
+- 🌱 Actively learning: **Python**, **Cybersecurity**, **Linux**, Livewire, Inertia.js & Tailwind CSS
+- 💡 Interested in: Clean Code, Problem Solving, Web Security & Backend Development
+- 📫 How to reach me: [callfaenae@atomicmail.io]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- **Backend**: PHP, Laravel, MySQL, Python (in progress)
+- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS
+- **Tools & Others**: Git, GitHub, Linux, Composer
+
+### Featured Projects
+(Links to your best projects will be pinned here)
+
+---
+
+> "Write clean code, build real projects, and improve every day."

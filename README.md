@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/resume.png" width="100%" alt="Developer Resume"/>
+  <img src="assets/resume.png" width="850" alt="Developer Resume"/>
 </p>
 
 # Hi, I'm Asa 👋

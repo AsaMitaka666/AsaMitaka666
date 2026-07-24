@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT Image Jul 25, 2026, 12_12_08 AM" width="100%" alt="Developer Resume"/>
+  <img src="assets/resume.png" width="100%" alt="Developer Resume"/>
 </p>
 
 # Hi, I'm Asa 👋

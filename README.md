@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./resume.png" width="850" alt="Developer Resume"/>
-</p>
-
 # Hi, I'm Asa 👋
 
 ### Real name: Amir Abbas

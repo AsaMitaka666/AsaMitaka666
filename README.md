@@ -1,6 +1,6 @@
 # Hi, I'm Asa 👋
 
-### Real name: Amir Abbas
+### Real name: Amir
 
 > **Python Developer • Linux Enthusiast • Open Source Learner**
 

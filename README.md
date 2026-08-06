@@ -1,102 +1,45 @@
 # Hi, I'm Asa 👋
 
-### Real name: Amir
+> Python Developer • Linux Enthusiast • Open Source Learner
 
-> **Python Developer • Linux Enthusiast • Open Source Learner**
+I'm a self-taught developer passionate about Python, Linux, and open-source technologies.
 
----
-
-## About Me
-
-I'm a self-taught developer with a passion for Python, Linux, and open-source software.
-
-I enjoy building practical applications, exploring low-level systems, automating workflows, and continuously improving my programming skills through real-world projects.
-
-My long-term goal is to become a professional software developer focused on backend development, Linux, cybersecurity, and open-source technologies.
-
----
+I enjoy building projects, automating workflows, exploring systems, and improving my skills through real-world practice.
 
 ## Currently Learning
 
 - Python
 - Linux & Bash
-- Git & GitHub
-- SQL / SQLite
 - Backend Development
+- SQL / SQLite
 - Cybersecurity Fundamentals
-
----
 
 ## Tech Stack
 
-### Languages
-
+**Languages**
 - Python
 - JavaScript
 - PHP
-- HTML5
-- CSS3
+- HTML/CSS
 
-### Frameworks & Libraries
-
-- React (Basic)
-
-### Operating Systems
-
+**Tools**
 - Linux Mint
-- Ubuntu
-- Arch Linux
-
-### Tools
-
-- Git
-- GitHub
+- Git & GitHub
 - Bash
 - Neovim
-- VS Codium
 - SQLite
 
----
+## Working On
 
-## What I'm Working On
+- Python projects
+- Open-source tools
+- Linux skills
+- Backend development
 
-- Building Python projects
-- Learning Linux deeply
-- Improving problem-solving skills
-- Creating open-source tools
-- Growing my GitHub portfolio
+## Goals
 
----
-
-## Goals for 2026
-
+- Become a professional backend developer
 - Build useful open-source projects
-- Master Python
-- Become confident with Linux
-- Contribute consistently on GitHub
-- Start working as a Backend Developer
+- Contribute more to GitHub
 
----
-
-## GitHub Philosophy
-
-> Write clean code.  
-> Build real projects.  
-> Learn every day.  
-> Never stop improving.
-
----
-
-## Contact
-
-📧 **Email**
-
-callfaenae@atomicmail.io
-
----
-
-<p align="center">
-
-**Code. Learn. Build. Repeat.**
-
-</p>
+> Learn. Build. Improve. 🚀
